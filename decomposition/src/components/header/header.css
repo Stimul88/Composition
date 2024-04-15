@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.different-news {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    list-style-type:  none;
+}
+
+.toolbar {
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+}
+
+.date {
+    margin-top: 30px;
+    color: darkgray;
+    font-size: 10px;
+}
+
+.header-box-footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.right-info {
+    font-size: 12px;
+}
+

@@ -1,0 +1,13 @@
+.advertisement-img {
+    /*height: 30px;*/
+    /*width: 400px;*/
+}
+
+.search-array {
+    display: flex;
+    flex-direction: row;
+}
+
+.for-example {
+    font-size: 10px;
+}
