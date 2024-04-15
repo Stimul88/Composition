@@ -11,7 +11,6 @@ export interface IHeader {
 }
 
 export const Header = ({props, children}:IHeader) => {
-    // const [selected, setSelected] = useState("Сейчас в СМИ");
 
     const titleArray = props.map((item) =>
             <Toolbar title={item} key={item.headTitle}/>

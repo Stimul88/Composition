@@ -1,5 +1,5 @@
 import './App.css'
-import {Header, Search, Footer, Toolbar} from './components';
+import {Header, Search, Footer} from './components';
 import news from './data/news';
 import searchList from './data/searchList';
 import newsInFooter from './data/newsInFooter';
